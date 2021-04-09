@@ -17,4 +17,3 @@ else:
   balance -= 0.5
 
 # output
-
